@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_background">#FBFCFF</color>
+    <color name="md_theme_onBackground">#1A1C1E</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_onPrimaryContainer">#001B3F</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_primary">#005CBB</color>
+    <color name="md_theme_primaryContainer">#D8E2FF</color>
+    <color name="md_theme_secondary">#555F71</color>
+    <string name="alarm_active">Alarm active</string>
+    <string name="alarm_active_title">Alarm active</string>
+    <string name="alarm_in_progress">Alarm in progress</string>
+    <string name="app_name">Secure Alarm</string>
+    <string name="authenticate_to_dismiss">Authenticate to dismiss</string>
+    <string name="authentication_label">Authentication</string>
+    <string name="authentication_prefix">Authentication: %1$s</string>
+    <string name="create_alarm">Create alarm</string>
+    <string name="credential_input_label">Enter credential</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="dismiss_alarm_action_description">Authenticate to dismiss alarm</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="fingerprint_button_description">Use fingerprint to dismiss alarm</string>
+    <string name="incorrect_credential_attempts">Incorrect credential. Attempts: %1$d</string>
+    <string name="label_optional">Label (optional)</string>
+    <string name="multiple_failed_attempts">Multiple failed attempts detected. Alarm owner will be notified.</string>
+    <string name="no_alarms">No alarms scheduled yet</string>
+    <string name="password">Password</string>
+    <string name="pattern">Pattern</string>
+    <string name="pin">PIN</string>
+    <string name="repeat_label">Repeat</string>
+    <string name="save_alarm">Save alarm</string>
+    <string name="save_alarm_action_description">Save the alarm with the selected security method</string>
+    <string name="saving">Saving…</string>
+    <string name="security_alert_channel_description">Notifications when someone repeatedly fails to dismiss a secure alarm.</string>
+    <string name="security_alert_channel_name">Alarm security alerts</string>
+    <string name="security_alert_description_generic">An alarm had %1$d failed dismissal attempts.</string>
+    <string name="security_alert_description_with_label">Alarm "%1$s" had %2$d failed dismissal attempts.</string>
+    <string name="security_alert_title">Security alert</string>
+    <string name="security_protected">Security enabled</string>
+    <string name="snooze">Snooze</string>
+    <string name="snooze_alarm_action_description">Snooze alarm and keep security active</string>
+    <string name="stop_alarm">Stop alarm</string>
+    <string name="time_picker_action_description">Select alarm time</string>
+    <string name="use_fingerprint">Use fingerprint</string>
+    <string name="verify">Verify</string>
+    <string name="verify_credential_action_description">Verify credential to dismiss alarm</string>
+    <style name="Theme.SecureAlarm" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

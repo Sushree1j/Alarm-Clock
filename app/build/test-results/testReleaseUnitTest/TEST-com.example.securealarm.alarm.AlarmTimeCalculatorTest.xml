@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.securealarm.alarm.AlarmTimeCalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-10-07T06:47:42.405Z" hostname="codespaces-6352f0" time="0.051">
+  <properties/>
+  <testcase name="daily repeat advances by one day" classname="com.example.securealarm.alarm.AlarmTimeCalculatorTest" time="0.025"/>
+  <testcase name="nextTrigger returns null when repeat pattern is absent" classname="com.example.securealarm.alarm.AlarmTimeCalculatorTest" time="0.001"/>
+  <testcase name="weekly repeat selects the next available day" classname="com.example.securealarm.alarm.AlarmTimeCalculatorTest" time="0.02"/>
+  <testcase name="weekly repeat rolls over to the first configured day" classname="com.example.securealarm.alarm.AlarmTimeCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

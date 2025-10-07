@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.securealarm.app-debug-69:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.securealarm.app-debug-69:/drawable_ic_stop.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/drawable/ic_stop.xml"
+    },
+    {
+        "merged": "com.example.securealarm.app-debug-69:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.securealarm.app-debug-69:/drawable_ic_alarm.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/drawable/ic_alarm.xml"
+    },
+    {
+        "merged": "com.example.securealarm.app-debug-69:/drawable_ic_snooze.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/drawable/ic_snooze.xml"
+    },
+    {
+        "merged": "com.example.securealarm.app-debug-69:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/mipmap/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.securealarm.app-debug-69:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.securealarm.app-debug-69:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.securealarm.app-debug-69:/mipmap_ic_launcher.xml.flat",
+        "source": "com.example.securealarm.app-main-71:/mipmap/ic_launcher.xml"
+    }
+]

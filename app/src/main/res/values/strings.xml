@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure Alarm</string>
+    <string name="create_alarm">Create alarm</string>
+    <string name="no_alarms">No alarms scheduled yet</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="snooze">Snooze</string>
+    <string name="authenticate_to_dismiss">Authenticate to dismiss</string>
+    <string name="pin">PIN</string>
+    <string name="password">Password</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="pattern">Pattern</string>
+    <string name="alarm_active">Alarm active</string>
+    <string name="alarm_in_progress">Alarm in progress</string>
+    <string name="stop_alarm">Stop alarm</string>
+    <string name="security_protected">Security enabled</string>
+    <string name="saving">Saving…</string>
+    <string name="save_alarm">Save alarm</string>
+    <string name="label_optional">Label (optional)</string>
+    <string name="repeat_label">Repeat</string>
+    <string name="authentication_label">Authentication</string>
+    <string name="credential_input_label">Enter credential</string>
+    <string name="dismiss_alarm_action_description">Authenticate to dismiss alarm</string>
+    <string name="snooze_alarm_action_description">Snooze alarm and keep security active</string>
+    <string name="verify_credential_action_description">Verify credential to dismiss alarm</string>
+    <string name="save_alarm_action_description">Save the alarm with the selected security method</string>
+    <string name="time_picker_action_description">Select alarm time</string>
+    <string name="fingerprint_button_description">Use fingerprint to dismiss alarm</string>
+    <string name="alarm_active_title">Alarm active</string>
+    <string name="use_fingerprint">Use fingerprint</string>
+    <string name="verify">Verify</string>
+    <string name="incorrect_credential_attempts">Incorrect credential. Attempts: %1$d</string>
+    <string name="multiple_failed_attempts">Multiple failed attempts detected. Alarm owner will be notified.</string>
+    <string name="authentication_prefix">Authentication: %1$s</string>
+    <string name="security_alert_title">Security alert</string>
+    <string name="security_alert_description_with_label">Alarm "%1$s" had %2$d failed dismissal attempts.</string>
+    <string name="security_alert_description_generic">An alarm had %1$d failed dismissal attempts.</string>
+    <string name="security_alert_channel_name">Alarm security alerts</string>
+    <string name="security_alert_channel_description">Notifications when someone repeatedly fails to dismiss a secure alarm.</string>
+</resources>
